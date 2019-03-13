@@ -79,6 +79,7 @@ options.scrollToTop = true
 // transition
 
 options.transition = 'foo'
+options.transition = false
 options.transition = { name: 'foo' }
 options.transition = (to, from) => 'foo'
 
